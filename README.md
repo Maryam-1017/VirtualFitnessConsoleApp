@@ -10,6 +10,6 @@ A console-based virtual fitness tracking application built in **Java**, applying
 - Clean modular design with separation of concerns
 
 ## 🛠️ Technologies Used
-- Java 
+- Java
 - Object-Oriented Programming
 - SDA Design Principles (modularity, encapsulation)
